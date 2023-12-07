@@ -1,10 +1,10 @@
 {
-    "title":"Meekdai",
-    "displayTitle":"eekdai",
-    "subTitle":"童话是一种生活态度，仅此而已。",
-    "homeUrl":"http://blog.meekdai.com",
-    "avatarUrl":"http://meekdai.com/avatar.jpg",
-    "faviconUrl":"http://meekdai.com/favicon.ico",
+    "title":"兔小兔",
+    "displayTitle":"Ruabbit",
+    "subTitle":"你说我们星座不相配。",
+    "homeUrl":"https://ruabbit.github.io/",
+    "avatarUrl":"https://ruabbit.github.io/avatar.jpg",
+    "faviconUrl":"https://ruabbit.github.io/favicon.ico",
     "singlePage":[],
     "GMEEK_VERSION":"last"
 }
